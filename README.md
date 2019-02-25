@@ -8,4 +8,4 @@ Arduino IDE compatable code for controling Rover via Android APP over WiFi using
 4. Don't Crash
 
 
-For Android App refer to [ESP8266-Controller](https://github.com/Ketan0898/ESP8266-Controller)s
+For Android App refer to [ESP8266-Controller](https://github.com/dharmanshu24/ESP8266-Controller)
